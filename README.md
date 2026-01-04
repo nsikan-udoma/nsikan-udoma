@@ -14,7 +14,7 @@ I'm a Data Enablement Lead with extensive experience in Data Modeling, Warehousi
 - Data Orchestration & ETL/ELT:  dbt, Pub/Sub, Cloud Composer (Apache Airflow), Cloud Run Functions
 - Data Exchange & Data Feed Transfer: APIs, Analytics Hub, Cloud Storage via Signed URLs, STFP, Email Reports
 - Data Analysis & Visualization: Tableau, Looker, HEX, Google Analytics, OLAP Cubes, Plotly Dash, Google Sheets / MS Excel
-- Stats, Modeling & ML: Numpy, Pandas, Scipy, Scikit-learn, Statsmodels, Supervised/Unsupervised Learning
+- Stats, Modeling & ML: Numpy, Pandas, Scipy, Scikit-learn, Statsmodels, Supervised/Unsupervised/Reinforcement Learning
 - Version Control & CI/CD: Git, GitHub, Gitlab, Bitbucket, Circle CI
 - Workflow Mapping & Diagrams: Lucid Charts, Miro Boards, Microsoft Visio
 - Collaboration & Documentation: Jira, Confluence
